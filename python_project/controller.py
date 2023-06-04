@@ -2,7 +2,7 @@ import service as s
 import view as v
 
 
-def run():
+def start_program():
     input_from_user = ''
     while input_from_user != '7':
         v.start_board()
